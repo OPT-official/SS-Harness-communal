@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+*.log
+.env
+.env.local
+*.pem
+*.key
+.claude/settings.local.json
+.claude/logs/
+.claude/cache/
